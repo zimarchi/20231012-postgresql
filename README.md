@@ -1,8 +1,8 @@
-l vous faudra crée une DB et ajouter votre propre config dans le fichier db.js) :floppy_disk:
-Vous y  trouverai aussi
+Ne pas oublier de créer une DB et ajouter ma propre config dans le fichier db.js
 
-Comment ajouter des regex sur des paramétres de route Express
-Comment utiliser des imports ES6 coté serveur
+Le repo contient aussi :
+- Comment ajouter des regex sur des paramétres de route Express
+- Comment utiliser des imports ES6 coté serveur
 
 
 
